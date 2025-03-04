@@ -30,10 +30,8 @@
 
 
 ## Мои проекты
-1. **[VeterinaryClinic](https://github.com/69Loony69/VeterinaryClinic)**  
-   Информационная система для ветеринарной клинки. Реализован интерфейс на WPF и подключена база данных SQL.  
-2. **[VeterinaryClinic 1С](https://github.com/69Loony69/VeterinaryClinic_1-)**  
-   Конфигурация 1С для ветеринарной клиники.
+1. **[Учебная практика](https://github.com/surfcurse/YP))**  
+    Учебная практика
 
 ## Контакты
 - **Email**: [di7ease@gmail.com](mailto:di7ease@gmail.com)  
